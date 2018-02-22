@@ -1,0 +1,115 @@
+114
+apts/housing+d/apts-housing-for-rent/search/apa
+housing swap+d/housing-swap/search/swp
+housing wanted+d/all-housing-wanted/search/hsw
+office/commercial+d/office-commercial/search/off
+parking/storage+d/parking-storage/search/prk
+real estate for sale+d/real-estate/search/rea
+rooms/shared+d/rooms-shares/search/roo
+rooms wanted+d/room-share-wanted/search/sha
+sublets/temporary+d/sublets-temporary/search/sub
+vacation rentals+d/vacation-rentals/search/vac
+antiques+d/antiques/search/ata
+appliances+d/appliances/search/ppa
+arts+crafts+d/arts-crafts/search/ara
+atv/utv/sno+d/atvs%2C-utvs%2C-snowmobiles/search/sna
+auto parts+i/auto_parts
+baby+kid+d/baby-kid-stuff/search/baa
+barter+d/barter/search/bar
+beauty+hlth+d/health-and-beauty/search/haa
+bikes+i/bikes
+boats+i/boats
+books+d/books-magazines/search/bka
+business+d/business/search/bfa
+cars+trucks+i/autos
+cds/dvd/vhs+d/cds-dvds-vhs/search/ema
+cell phones+d/cell-phones/search/moa
+clothes+acc+d/clothing-accessories/search/cla
+collectibles+d/collectibles/search/cba
+computers+i/computers
+electronics+d/electronics/search/ela
+farm+garden+d/farm-garden/search/gra
+free+d/free-stuff/search/zip
+furniture+d/furniture/search/fua
+garage sale+d/garage-moving-sales/search/gms
+general+d/general-for-sale/search/foa
+heavy equip+d/heavy-equipment/search/hva
+household+d/household-items/search/hsa
+jewelry+d/jewelry/search/jwa
+materials+d/materials/search/maa
+motorcycles+i/motorcycles
+music instr+d/musical-instruments/search/msa
+photo+video+d/photo-video/search/pha
+rvs+camp+d/recreational-vehicles/search/rva
+sporting+d/sporting-goods/search/sga
+tickets+d/tickets/search/tia
+tools+d/tools/search/tla
+toys+games+d/toys-games/search/taa
+trailers+d/trailers/search/tra
+video gaming+d/video-gaming/search/vga
+wanted+d/wanted/search/waa
+automotive+d/automotive-services/search/aos
+beauty+d/beauty-services/search/bts
+cell/mobile+d/cell-phone-mobile-services/search/cms
+computer+d/computer-services/search/cps
+creative+d/creative-services/search/crs
+cycle+d/cycle-services/search/cys
+event+d/event-services/search/evs
+farm+garden+d/farm-garden-services/search/fgs
+financial+d/financial-services/search/fns
+household+d/household-services/search/hss
+labor/move+d/labor-hauling-moving/search/lbs
+legal+d/legal-services/search/lgs
+lessons+d/lessons-tutoring/search/lss
+marine+d/marine-services/search/mas
+pet+d/pet-services/search/pas
+real estate+d/real-estate-services/search/rts
+skilled trade+d/skilled-trade-services/search/sks
+sm biz ads+d/small-biz-ads/search/biz
+therapeutic+d/therapeutic-services/search/thp
+travel/vac+d/travel-vacation-services/search/trv
+write/ed/tran+d/writing-editing-translation/search/wet
+accounting+finance+d/accounting-finance/search/acc
+admin/office+d/admin-office/search/ofc
+arch/engineering+d/architect-engineer-cad/search/egr
+art/media/design+d/art-media-design/search/med
+biotech/science+d/science-biotech/search/sci
+business/mgmt+d/business-mgmt/search/bus
+customer service+d/customer-service/search/csr
+education+d/education-teaching/search/edu
+food/bev/hosp+d/food-beverage-hospitality/search/fbh
+general labor+d/general-labor/search/lab
+government+d/government/search/gov
+human resources+d/human-resource/search/hum
+internet engineers+d/internet-engineering/search/eng
+legal/paralegal+d/legal-paralegal/search/lgl
+manufacturing+d/manufacturing/search/mnu
+marketing/pr/ad+d/marketing-advertising-pr/search/mar
+medical/health+d/healthcare/search/hea
+nonprofit sector+d/nonprofit/search/npo
+real estate+d/real-estate/search/rej
+retail/wholesale+d/retail-wholesale/search/ret
+sales/biz dev+d/sales/search/sls
+salon/spa/fitness+d/salon-spa-fitness/search/spa
+security+d/security/search/sec
+skilled trade/craft+d/skilled-trades-artisan/search/trd
+software/qa/dba+d/software-qa-dba-etc/search/sof
+systems/network+d/systems-networking/search/sad
+technical support+d/technical-support/search/tch
+transport+d/transportation/search/trp
+tv/film/video+d/tv-film-video-radio/search/tfr
+web/info design+d/web-html-info-design/search/web
+writing/editing+d/writing-editing/search/wri
+[ETC]+d/et-cetera/search/etc
+[ part-time ]+d/jobs/search/jjj?employment_type=2
+computer+d/computer-gigs/search/cpg
+creative+d/creative-gigs/search/crg
+crew+d/crew-gigs/search/cwg
+domestic+d/domestic-gigs/search/dmg
+event+d/event-gigs/search/evg
+labor+d/labor-gigs/search/lbg
+talent+d/talent-gigs/search/tlg
+writing+d/writing-gigs/search/wrg
+housing+d/housing/search/hhh
+for sale+d/for-sale/search/sss
+jobs+d/jobs/search/jjj
